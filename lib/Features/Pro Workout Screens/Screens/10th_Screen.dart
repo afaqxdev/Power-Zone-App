@@ -4,7 +4,6 @@ import 'package:get/get.dart';
 import 'package:power_zone/Core/Costum%20Widgets/Common%20SizedBox/costum_widgets.dart';
 import 'package:power_zone/Core/Costum_Color/App%20Colors/app_colors.dart';
 import 'package:power_zone/Features/Workout%20Screen/Workout_Screen.dart';
-import 'package:power_zone/Features/Pro%20Workout%20Screens/Screens/2nd_Screen.dart';
 import 'package:power_zone/Features/Pro%20Workout%20Screens/Helper%20files/Costum_Container.dart';
 import 'package:power_zone/Features/Pro%20Workout%20Screens/Helper%20files/costum_button.dart';
 import 'package:power_zone/Features/Pro%20Workout%20Screens/Helper%20files/costum_row.dart';

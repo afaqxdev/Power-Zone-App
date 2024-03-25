@@ -1,6 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-
 class Model {
   Model({
     required this.equipment,

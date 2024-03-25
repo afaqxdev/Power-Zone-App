@@ -5,7 +5,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:power_zone/Core/Costum%20Widgets/Common%20SizedBox/costum_widgets.dart';
 import 'package:power_zone/Core/Costum%20Widgets/Common%20TextButton/costum_textbutton.dart';
 import 'package:power_zone/Core/Costum_Color/App%20Colors/app_colors.dart';
-import 'package:power_zone/Features/Workout%20Screen/Workout_Screen.dart';
 import 'package:power_zone/Features/Landing%20Screen/Landing_Screen.dart';
 import 'package:power_zone/Features/Workout%20Screen/bottomNavBar.dart';
 

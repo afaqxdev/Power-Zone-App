@@ -1,9 +1,10 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:power_zone/Core/Costum%20Widgets/Common%20SizedBox/costum_widgets.dart';
-import 'package:power_zone/Features/Workout%20Screen/bottomNavBar.dart';
 import 'package:power_zone/Features/Workout%20Screen/fullBody_workout.dart';
 import 'package:power_zone/Features/Workout%20Screen/hard_workout.dart';
 import 'package:power_zone/Features/Workout%20Screen/popular_workout.dart';

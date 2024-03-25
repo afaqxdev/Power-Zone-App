@@ -21,11 +21,10 @@ class ApiDesignScreen extends StatefulWidget {
 }
 
 class _ApiDesignScreenState extends State<ApiDesignScreen> {
+  // ignore: unused_field
   bool _isRunning = true;
 
   final _controller = CountDownController();
-
-  final _controller2 = CountDownController();
 
   @override
   Widget build(BuildContext context) {

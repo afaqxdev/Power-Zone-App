@@ -18,6 +18,7 @@ class ViewPage extends StatefulWidget {
 class _ViewPageState extends State<ViewPage> {
   PageController controller = PageController();
 
+  // ignore: unused_field
   int _curr = 0;
 
   @override

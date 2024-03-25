@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-import 'package:power_zone/Core/Costum_Color/App%20Colors/app_colors.dart';
 import 'Features/Splash Screen/Splash_Screen.dart';
-import 'Features/Workout Screen/bottomNavBar.dart';
 
 void main() async {
   await ScreenUtil.ensureScreenSize();
