@@ -1,6 +1,6 @@
 {
-    "name": "power_zone",
-    "short_name": "power_zone",
+    "name": "power_zone_master",
+    "short_name": "power_zone_master",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
